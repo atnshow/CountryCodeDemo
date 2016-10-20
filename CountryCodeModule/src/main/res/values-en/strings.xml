@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ec_country_code_select_country">Select country</string>
+    <string name="ec_country_code_search">search...</string>
+    <string name="ec_country_code_no_result">No result found</string>
+
+</resources>

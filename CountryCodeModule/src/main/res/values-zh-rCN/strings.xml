@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ec_country_code_select_country">选择国家</string>
+    <string name="ec_country_code_search">搜索</string>
+    <string name="ec_country_code_no_result">没有结果</string>
+
+</resources>
